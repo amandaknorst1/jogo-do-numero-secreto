@@ -1,7 +1,8 @@
 <h1>Jogo do número secreto</h1>
 
 <h2> :bookmark: Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto desenvolvido para aprendizado de JavaScript, git e github.
+Escolha um número entre 01 e 30 e divirta-se! :smile: </p>
 
 ## :rocket: Tecnologias
 
